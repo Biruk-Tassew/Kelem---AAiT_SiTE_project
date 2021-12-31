@@ -2,7 +2,7 @@
                                                    Qelem---ቀለም
  This is a website where students and other users may submit any questions they have and get answers. We believe that this site would serve the educational society by giving an easily accessible means for students to acquire answers to their questions when no one else is available to assist them.
 
-##Features
+## Features
 The following are the primary business features that our website would have:<br /><br /> 
 - Our system enables user to have an account, log in to thier account, edit at any time they wanted and delete their account if they insist.<br />
 - It provides a way to Post their question or Answer to other question posed by other users, Read questions and Answers posted by them or any other user, Edit the questions and Answer they posted or Delete the questions and Answer they posted.<br />
