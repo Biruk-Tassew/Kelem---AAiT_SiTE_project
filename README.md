@@ -8,7 +8,7 @@ The following are the primary business features that our website would have:<br 
 - It also enable a user to comment on any question, edit his/her comments or delete it.<br />
 - Further more our system provides an exam preparaton tests with multiple questions collected from different sources with a proven answers.<br />
 - Users will be able to share Educational Material that could possibley address a question raised by other users.<br />
-- If a user is reported by other users for posting inappropriate content, they will be assessed by the admin team and removed or suspended depending on the severity of their action.
+- If a user is reported by other users for posting inappropriate content, they will be assessed by the admin team and removed or suspended depending on the severity of their action via the admins dashboard.
            
 The qualities listed above are the main ones that our system will have. We offer an authentication mechanism for the system in order for a user to have an account and login. We will also have a mechanism to provide authorization to change or delete the account that the user created, and for posts made by that user. In addition, admins should be able to suspend or even remove a user's account if the user breaches the terms and conditions of the site, which he/she is supposed to agree to when signing up.
 
