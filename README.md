@@ -1,4 +1,4 @@
-# Kelem-ቀለም---AAiT_SiTE_project
+<pre># Kelem-ቀለም---AAiT_SiTE_project
                                                    Kelem---ቀለም
  This is a website where students and other users may submit any questions they have and get answers. We believe that this site would serve the educational society by giving an easily accessible means for students to acquire answers to their questions when no one else is available to assist them.
 
@@ -16,3 +16,4 @@ We use the RESTful API to make our system function on a variety of devices. This
 Another significant advantage of the Rest API is that back-end and front-end teams may operate separately without one requiring the other to complete certain duties after both have the intended api. This simplifies the tests we'd do on each unit and paves the path for the best results when the units are integrated. 
          
 The title we picked for our project is 'Kelem-ቀለም' which is an amharic word that has a contextual equivalence of meaning with 'education.' We believe that this name accurately represents what we want to undertake. 
+</pre>
