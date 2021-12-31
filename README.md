@@ -1,6 +1,5 @@
-# Qelem-ቀለም---AAiT_SiTE_project
-                                                   Qelem---ቀለም
- This is a website where students and other users may submit any questions they have and get answers. We believe that this site would serve the educational society by giving an easily accessible means for students to acquire answers to their questions when no one else is available to assist them.
+# Qelem-ቀለም
+This is a website where students and other users may submit any questions they have and get answers. We believe that this site would serve the educational society by giving an easily accessible means for students to acquire answers to their questions when no one else is available to assist them.
 
 ## Features
 The following are the primary business features that our website would have:<br /><br /> 
@@ -17,3 +16,10 @@ We use the RESTful API to make our system function on a variety of devices. This
 Another significant advantage of the Rest API is that back-end and front-end teams may operate separately without one requiring the other to complete certain duties after both have the intended API. This simplifies the tests we'd do on each unit and paves the path for the best results while doing integration tests.
          
 The title we picked for our project is 'Qelem-ቀለም' which is an amharic word that has a contextual equivalence of meaning with 'education'. We believe that this name accurately represents what we want to undertake.
+
+## Group Memebers
+- Hailemariam Arega    UGR/7412/12
+- Biruk Tassew         UGR/2004/12
+- Yohannes Asfaw       UGR/0327/12
+- Petros Beyene        UGR/1308/12
+- Nazrawi Demeke       UGR/1209/12
