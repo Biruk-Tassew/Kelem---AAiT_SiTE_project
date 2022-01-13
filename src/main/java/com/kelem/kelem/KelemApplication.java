@@ -1,6 +1,8 @@
 package com.kelem.kelem;
 
+import com.kelem.kelem.dao.TagRepositiory;
 import com.kelem.kelem.dao.UserRepository;
+import com.kelem.kelem.model.TagModel;
 import com.kelem.kelem.model.UserModel;
 import com.kelem.kelem.model.UserModel.ROLE;
 
