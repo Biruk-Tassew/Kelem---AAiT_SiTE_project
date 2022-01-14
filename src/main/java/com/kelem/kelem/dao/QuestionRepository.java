@@ -1,10 +1,10 @@
-package com.group2.kelem.dao;
+package com.kelem.kelem.dao;
 
 
 import java.util.List;
 
-import com.group2.kelem.model.QuestionModel;
-import com.group2.kelem.model.TagModel;
+import com.kelem.kelem.model.QuestionModel;
+import com.kelem.kelem.model.TagModel;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
