@@ -1,4 +1,4 @@
-package com.group2.kelem.model;
+package com.kelem.kelem.model;
 
 
 import java.util.List;

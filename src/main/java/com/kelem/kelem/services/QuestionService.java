@@ -1,12 +1,12 @@
-package com.group2.kelem.services;
+package com.kelem.kelem.services;
 
 import java.util.List;
 import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.StreamSupport;
 
-import com.group2.kelem.dao.QuestionRepository;
-import com.group2.kelem.model.QuestionModel;
+import com.kelem.kelem.dao.QuestionRepository;
+import com.kelem.kelem.model.QuestionModel;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
