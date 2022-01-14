@@ -73,15 +73,6 @@ public class ReportedAnswerController {
 
     @PostMapping("/report-answer/{id}")
     public String reportedAnswers(@PathVariable String id) {
-        System.out.println("\n");
-        System.out.println("\n");
-        System.out.println("\n");
-        System.out.println("\n");
-        System.out.println("\n");
-        System.out.println("I am inside");
-        System.out.println("\n");
-        System.out.println("\n");
-        System.out.println("\n");
         UserModel currentlyLoggUserModel = this.loggedInUser();
         AnswerModel answer= answerRepository.findById(Long.parseLong(id)).get();
         QuestionModel questionModel = answer.getQuestion();
