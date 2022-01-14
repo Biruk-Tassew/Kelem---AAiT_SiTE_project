@@ -3,7 +3,6 @@ package com.kelem.kelem.model;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 
-import com.kelem.kelem.model.UserModel.ROLE;
 
 import org.springframework.security.crypto.password.PasswordEncoder;
 
