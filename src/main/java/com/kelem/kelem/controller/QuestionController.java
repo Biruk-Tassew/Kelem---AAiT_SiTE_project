@@ -1,19 +1,19 @@
-package com.group2.kelem.controller;
+package com.kelem.kelem.controller;
 
 import java.util.List;
 
 import javax.validation.Valid;
 
-import com.group2.kelem.dao.AnswerRepository;
-import com.group2.kelem.dao.QuestionRepository;
-import com.group2.kelem.dao.ReportedQuestionRepository;
-import com.group2.kelem.dao.TagRepositiory;
-import com.group2.kelem.dao.UserRepository;
-import com.group2.kelem.model.QuestionModel;
-import com.group2.kelem.model.TagModel;
-import com.group2.kelem.model.UserModel;
-import com.group2.kelem.model.QuestionModel.Status;
-import com.group2.kelem.services.QuestionService;
+import com.kelem.kelem.dao.AnswerRepository;
+import com.kelem.kelem.dao.QuestionRepository;
+import com.kelem.kelem.dao.ReportedQuestionRepository;
+import com.kelem.kelem.dao.TagRepositiory;
+import com.kelem.kelem.dao.UserRepository;
+import com.kelem.kelem.model.QuestionModel;
+import com.kelem.kelem.model.TagModel;
+import com.kelem.kelem.model.UserModel;
+import com.kelem.kelem.model.QuestionModel.Status;
+import com.kelem.kelem.services.QuestionService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.context.SecurityContextHolder;
