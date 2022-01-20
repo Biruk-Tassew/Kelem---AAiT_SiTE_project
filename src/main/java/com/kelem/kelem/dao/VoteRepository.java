@@ -1,10 +1,10 @@
-package com.group2.kelem.dao;
+package com.kelem.kelem.dao;
 
 import java.util.List;
 
-import com.group2.kelem.model.AnswerModel;
-import com.group2.kelem.model.UserModel;
-import com.group2.kelem.model.Vote;
+import com.kelem.kelem.model.AnswerModel;
+import com.kelem.kelem.model.UserModel;
+import com.kelem.kelem.model.Vote;
 
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;

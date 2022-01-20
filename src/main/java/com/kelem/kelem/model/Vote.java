@@ -1,4 +1,4 @@
-package com.group2.kelem.model;
+package com.kelem.kelem.model;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
