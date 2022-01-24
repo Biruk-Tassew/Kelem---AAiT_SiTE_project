@@ -9,60 +9,6 @@
 	<script th:src="@{/js/jquery-1.10.2.min.js}"></script>
 </head>
 
-<!-- <body>
-  <form th:action="@{${'/add-admin/'}}" method="GET">
-    <button type="submit">add admin</button>
-  </form>
-  <p>Reported Questions:</p>
-  <div  th:each="reportedQues: ${reportedQues}">
-    <div th:text="${reportedQues.id}"></div>
-    </br>
-
-    </br>
-    <div th:text="${reportedQues.question}"></div>
-    </br>
-
-    <form th:action="@{${'/ques-dismiss-report/' + reportedQues.id}}" method="POST">
-      <button type="submit" class="btn btn-primary">Dismiss</button>
-    </form>
-
-    <form th:action="@{${'/ques-resolve-report/' + reportedQues.id}}" method="POST">
-      <button type="submit" class="btn btn-primary">Resolve</button>
-    </form>
-
-
-    </br>
-    </br>
-  </div>
-
-  <p>Reported answers:</p>
-  <th:block  th:each="reportedAns: ${reportedAns}">
-    <div th:text="${reportedAns.id}"></div>
-    </br>
-    
-    </br>
-    <div th:text="${reportedAns.answer.content}"></div>
-    </br>
-    
-    <form th:action="@{${'/dismiss-report/' + reportedAns.id}}" method="POST">
-      <button type="submit" class="btn btn-primary">Dismiss</button>
-    </form>
-    
-    <form th:action="@{${'/resolve-report/' + reportedAns.id}}" method="POST">
-      <button type="submit" class="btn btn-primary">Resolve</button>
-    </form>
-    
-
-    </br>
-    </br>
-  </th:block>
-  <form method="POST" th:action="@{/logout}">
-    <input type="submit" value="Logout"/>
-    </form>
-  <script th:src="@{/js/bootstrap.bundle.min.js}"></script>
-
-</body> -->
-
 <body oncontextmenu='return false' class='snippet-body bg-light'>
     <div class="container-xl px-4 mt-4">
 		

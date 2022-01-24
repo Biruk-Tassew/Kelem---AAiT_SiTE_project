@@ -9,42 +9,6 @@
     <script th:src="@{/js/bootstrap.bundle.min.4.js}"></script>
   </head>
 
-  <!-- <body>
-    <th:block th:each="question: ${q}">
-        <td th:text="${question.id}" />
-        <td th:text="${question.topic}" />
-        <td th:text="${question.content}" />
-        <td th:text="${question.status}" />
-        <div th:if="${currentlyLoggedInUser.id} == ${question.user.id}">
-          <form th:action="@{${'/update-question/' + question.id}}" method="GET">
-            <button type="submit" class="btn btn-primary">Update</button>
-          </form>
-        <div th:if="${currentlyLoggedInUser.id} == ${question.user.id}">
-          <form th:action="@{${'/delete-question/' + question.id}}" method="GET">
-            <button type="submit" class="btn btn-primary">Delete</button>
-          </form>
-        </div>
-        <form th:action="@{${'/answer-question/' + question.id}}">
-          <button type="submit">Answer</button>
-        </form>
-        <form th:action="@{${'/report-question/' + question.id}}" method="POST">
-          <button type="submit">Report</button>
-        </form>
-        <form th:action="@{${question.id + '/all-answers/'}}" method="GET">
-          <button type="submit">Show answers</button>
-        </form>
-      </form>
-    
-
-      </br>
-    </br>
-  </th:block>
-  <form method="POST" th:action="@{/logout}">
-    <input type="submit" value="Logout"/>
-    </form>
-    <script th:src="@{/js/bootstrap.bundle.min.js}"></script>
-  </body> -->
-
 <body class="bg-light">
 	<div class="container-xl px-4 mt-4">
 
@@ -122,11 +86,6 @@
 					</div>
 					
 				</th:block>
-				<!-- <div>
-					<form th:action="@{${'/delete-userProfile/' + currentlyLoggedInUser.id}}" method="GET">
-					  <button type="submit" class="btn btn-primary">Delete</button>
-					</form>
-				</div> -->
 			</section>
 		</section>
 	</div>
