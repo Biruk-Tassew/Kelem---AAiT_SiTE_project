@@ -23,3 +23,8 @@ The title we picked for our project is 'Qelem-ቀለም' which is an amharic wor
 - Yohannes Asfaw       UGR/0327/12
 - Petros Beyene        UGR/1308/12
 - Nazrawi Demeke       UGR/1209/12
+
+## Settings Needed To Run The Project
+- The default user of the system is the admin with 'admin' username and 'admin' password.
+- If not photo is uploaded, the system will default back to using the one in the ../static/user-photos/1/ directory.
+- The name of the database used is kelem (make sure you have one with such name prior to running the application). As for the password, it is "\n".
